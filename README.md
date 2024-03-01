@@ -20,3 +20,7 @@ What your system will do (transactions):
 IMPORTANT NOTES:
 - Account number limits to 10 digits only (ex. 1234567890)
 - Customer name only works with one name (ex. Daven)
+
+  A Thorough Explanation of how the Program Works:
+  
+  https://docs.google.com/document/d/1bAVg2LcpIHitq-vCfMW9BNyweuNypueV1EM2V022rBU/edit

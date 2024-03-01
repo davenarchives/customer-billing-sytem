@@ -9,7 +9,7 @@ Using final term concepts;
 - Strings
 - Structures
 
-What your system will do (transactions):
+What our system will do (transactions):
 
 1. Accounts can be added to the program at any time and it can hold any number of accounts.
 2. The programming of simple calculations such as calculation of due amount, balance etc. have been embedded in the code of this project.
@@ -20,7 +20,14 @@ What your system will do (transactions):
 IMPORTANT NOTES:
 - Account number limits to 10 digits only (ex. 1234567890)
 - Customer name only works with one name (ex. Daven)
-
-  A Thorough Explanation of how the Program Works:
+- The program may not as perfect as to what the instruction says
   
-  https://docs.google.com/document/d/1bAVg2LcpIHitq-vCfMW9BNyweuNypueV1EM2V022rBU/edit
+
+**A Thorough Explanation of how the Program Works:**
+
+<a href="https://docs.google.com/document/d/1bAVg2LcpIHitq-vCfMW9BNyweuNypueV1EM2V022rBU/edit">
+  <img src="https://github.com/davenarchives/customer-billing-sytem/assets/160004612/9e571746-4d33-41e9-a643-4badf5feb426" alt="Image Description" style="float: left;">
+</a>
+
+
+

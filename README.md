@@ -26,7 +26,7 @@ IMPORTANT NOTES:
 **A Thorough Explanation of how the Program Works:**
 
 <a href="https://docs.google.com/document/d/1bAVg2LcpIHitq-vCfMW9BNyweuNypueV1EM2V022rBU/edit">
-  <img src="https://github.com/davenarchives/customer-billing-sytem/assets/160004612/9e571746-4d33-41e9-a643-4badf5feb426" alt="Image Description" style="float: left; target="_blank";">
+  <img src="https://github.com/davenarchives/customer-billing-sytem/assets/160004612/9e571746-4d33-41e9-a643-4badf5feb426" alt="Image Description" style="float: left; target="_blank"">
 </a>
 
 

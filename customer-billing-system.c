@@ -271,4 +271,3 @@ int main() {
 
     return 0;
 }
-// credits: Elan, Rhoydel
